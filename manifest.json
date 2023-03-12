@@ -1,0 +1,10 @@
+{
+  "name": "PEH - PAD Extension by Hassasin",
+  "description": "An extension to support mobile game Puzzle&Dragons, mostly for NA server",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "./html/main.html",
+    "default_icon": "./icons/hello_extensions.png"
+  }
+}
